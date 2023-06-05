@@ -54,13 +54,6 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- CONTACT -->
-## Contact
-More Projects
-GitHub: [tanyed640]([https://github.com/tanyed640])
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * Python 3 language
